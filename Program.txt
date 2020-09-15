@@ -10,3 +10,7 @@ This is fourth line for commit
 
 This is fifth  line for commit
 This is sixth  line for commit
+
+This is seventh  line for commit
+
+This is eight  line for commit
